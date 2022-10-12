@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarangrajan3" target="blank"><img src="https://img.shields.io/twitter/follow/sarangrajan3?logo=twitter&style=for-the-badge" alt="sarangrajan3" /></a> </p>
 
-- 🌱 I’m currently learning **flutter react native**
+- 🌱 I’m currently learning **Cross Platform Mobile application developer**
 
 - 👨‍💻 All of my projects are available at [https://www.sarangrajan.in/](https://www.sarangrajan.in/)
 
